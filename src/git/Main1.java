@@ -5,6 +5,6 @@ public static void main(String[] args) {
 printHola();
 }
 public static void printHola(){
-System.out.println("Hola món, quiero chocolate!");
+System.out.println("Hola món, quiero chocolate y palomitas!");
 }
 }
